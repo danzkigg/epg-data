@@ -194,7 +194,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data for tele
 Contributions to improve data accuracy, expand coverage, or enhance data formats are welcome. Fork this repository, make your changes, and submit a pull request.
 
 ## License:
-This repository is licensed under the [MIT License](link-to-license-file), allowing for both personal and commercial use with attribution.
+This repository is licensed under the [MIT License](https://github.com/danzkigg/epg-pt/blob/main/LICENSE), allowing for both personal and commercial use with attribution.
 
 ## Disclaimer:
 This repository is not affiliated with any television network or broadcasting organization. EPG data may be subject to changes by broadcasters; use caution when relying on real-time scheduling information.
