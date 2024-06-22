@@ -1,4 +1,4 @@
-# Portugal TV EPG Data Repository
+# Portugal TV EPG Data
 
 This repository hosts comprehensive Electronic Program Guide (EPG) data for television channels in Portugal. EPG data provides schedules of upcoming broadcasts, enabling applications to display accurate programming information to users.
 
