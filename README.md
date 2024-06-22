@@ -1,4 +1,4 @@
-# Multinational TV EPG XML Data
+# TV EPG Data
 
 This repository hosts comprehensive Electronic Program Guide (EPG) data in XML format for television channels across multiple countries, including Portugal, France, and the United States. EPG data provides schedules of upcoming broadcasts, enabling applications to display accurate programming information to users.
 
