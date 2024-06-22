@@ -20,8 +20,8 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 - **Combined Guide**: Alternatively, you can use the combine EPG data from all countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
 
 ## How to Use:
-1. Use direct URLs (like `https://raw.githubusercontent.com/danzkigg/epg-data/main/usa/guide.xml`) to access specific country guides.
-2. Depending on your needs, use individual XML files for specific country guides or use the combined guide to get every country.
+1. Use direct URLs (ex: `https://raw.githubusercontent.com/danzkigg/epg-data/main/usa/guide.xml`) to access specific country guides.
+2. Depending on your needs, use individual XML files for specific country guides or use the combined guide to get every country (`https://raw.githubusercontent.com/danzkigg/epg-data/main/combined-guide.xml`)
 3. Each country's guide contains all channels, including sports channels, ensuring comprehensive coverage.
 4. The EPG data covers approximately 48 hours of scheduling and is updated daily.
 
