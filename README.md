@@ -5,29 +5,23 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 ## Features:
 - **Up-to-date Information**: Regularly updated EPG data to ensure accuracy and reliability.
 - **Channel Coverage**:
-  - **Portugal**: Includes major national, regional and sports channels.
-  - **France**: Covers prominent French channels, including national networks and regional stations.
-  - **United States**: Encompasses popular US channels, both national and local broadcasts.
+  - **Portugal**: Includes all major national and regional channels, including sports channels.
+  - **France**: Covers all prominent French channels, including national networks, regional stations, and sports channels.
+  - **United States**: Encompasses all popular US channels, both national and local broadcasts, including sports channels.
 - **Structured Format**: Data provided in XML format for easy integration into applications and services.
 - **Open Source**: Free and open for community use, contributions, and enhancements.
 
+## Usage Options:
+- **Individual Guides**: Users can access and integrate EPG data for each country individually. This allows for specific regional or national coverage depending on application needs.
+- **Combined Guide**: Alternatively, you can use the combine EPG data from all three countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
+
 ## Usage:
 - **Developers**: Integrate EPG data into TV guide applications, media center software, or IPTV solutions.
-- **Researchers**: Analyze broadcasting patterns and trends across Portuguese TV channels.
+- **Researchers**: Analyze broadcasting patterns and trends across TV channels in Portugal, France, and the US.
 - **Enthusiasts**: Explore television programming schedules for personal use or hobbyist projects.
 
-## How to Use:
-1. Clone the repository to your local environment.
-2. Use the XML files provided in the corresponding country directory for programming integration.
-
-## Contributing:
-Contributions to improve data accuracy, expand coverage, or enhance data formats are welcome. Fork this repository, make your changes, and submit a pull request.
-
-## License:
-This repository is licensed under the [MIT License](https://github.com/danzkigg/epg-pt/blob/main/LICENSE), allowing for both personal and commercial use with attribution.
-
 ## Disclaimer:
-This repository is not affiliated with any television network or broadcasting organization. EPG data may be subject to changes by broadcasters; use caution when relying on real-time scheduling information.
+This repository is not affiliated with any television network or broadcasting organization. EPG data may be subject to changes by broadcasters; use caution when relying on real-time scheduling information. If you encounter any problems submit an issue.
 
 
 
