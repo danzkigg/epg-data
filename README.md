@@ -30,6 +30,8 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 - **Researchers**: Analyze broadcasting patterns and trends across TV channels in Portugal, France, and the US.
 - **Enthusiasts**: Explore television programming schedules for personal use or hobbyist projects.
 
+*This repository is licensed under the [MIT License](https://github.com/danzkigg/epg-data/blob/main/LICENSE), allowing for both personal and commercial use with attribution.*
+
 ## Requesting Additional Countries:
 - **Requests Welcome**: If you require EPG data for countries not currently included, please open an issue on GitHub.
 
