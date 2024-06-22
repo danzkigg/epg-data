@@ -5,7 +5,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data for tele
 ## Features:
 - **Up-to-date Information**: Regularly updated EPG data to ensure accuracy and reliability.
 - **Channel Coverage**: Includes major national and regional channels across Portugal.
-- **Structured Format**: Data provided in JSON format for easy integration into applications and services.
+- **Structured Format**: Data provided in XML format for easy integration into applications and services.
 - **Open Source**: Free and open for community use, contributions, and enhancements.
 <details>
 
