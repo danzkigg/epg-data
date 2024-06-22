@@ -12,7 +12,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 - **Open Source**: Free and open for community use, contributions, and enhancements.
 
 ## Usage Options:
-- **Individual Guides**: Users can access and integrate EPG data for each country individually. This allows for specific regional or national coverage depending on application needs.
+- **Individual Guides**: You can access and integrate EPG data for each country individually. This allows for specific regional or national coverage depending on application needs.
 - **Combined Guide**: Alternatively, you can use the combine EPG data from all three countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
 
 ## Usage:
