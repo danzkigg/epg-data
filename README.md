@@ -11,7 +11,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
   - **United Kingdom**: Includes major British channels, including national networks, regional stations, and sports channels.
   - **Spain**: Covers major Spanish channels, including national networks, regional stations, and sports channels.
 - **Scheduling Coverage**: Provides programming information for approximately 48 hours in advance.
-- **Update Frequency**: EPG data is updated daily at 08:00 PM UTC to reflect changes in schedules and programming.
+- **Update Frequency**: EPG data is updated daily at 05:00 AM UTC to reflect changes in schedules and programming.
 - **Structured Format**: Data provided in XML format for easy integration into applications and services.
 - **Open Source**: Free and open for community use, contributions, and enhancements.
 
