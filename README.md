@@ -8,12 +8,22 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
   - **Portugal**: Includes all major national and regional channels, including sports channels.
   - **France**: Covers all prominent French channels, including national networks, regional stations, and sports channels.
   - **United States**: Encompasses all popular US channels, both national and local broadcasts, including sports channels.
+  - **United Kingdom**: Includes major British channels, including national networks, regional stations, and sports channels.
+  - **Spain**: Covers major Spanish channels, including national networks, regional stations, and sports channels.
+- **Scheduling Coverage**: Provides programming information for approximately 48 hours in advance.
+- **Update Frequency**: EPG data is updated daily to reflect changes in schedules and programming.
 - **Structured Format**: Data provided in XML format for easy integration into applications and services.
 - **Open Source**: Free and open for community use, contributions, and enhancements.
 
 ## Usage Options:
 - **Individual Guides**: You can access and integrate EPG data for each country individually. This allows for specific regional or national coverage depending on application needs.
 - **Combined Guide**: Alternatively, you can use the combine EPG data from all three countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
+
+## How to Use:
+1. Use direct URLs (like `https://raw.githubusercontent.com/danzkigg/epg-data/main/usa/guide.xml`) to access specific country guides.
+2. Depending on your needs, use individual XML files for specific country guides or use the combined guide to get every country.
+3. Each country's guide contains all channels, including sports channels, ensuring comprehensive coverage.
+4. The EPG data covers approximately 48 hours of scheduling and is updated daily.
 
 ## Usage:
 - **Developers**: Integrate EPG data into TV guide applications, media center software, or IPTV solutions.
