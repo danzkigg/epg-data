@@ -18,7 +18,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 
 ## How to Use:
 1. Clone the repository to your local environment.
-2. Use the XML files provided in the `/portugal` directory for programming integration.
+2. Use the XML files provided in the corresponding country directory for programming integration.
 
 ## Contributing:
 Contributions to improve data accuracy, expand coverage, or enhance data formats are welcome. Fork this repository, make your changes, and submit a pull request.
