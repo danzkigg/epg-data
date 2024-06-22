@@ -17,7 +17,7 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 
 ## Usage Options:
 - **Individual Guides**: You can access and integrate EPG data for each country individually. This allows for specific regional or national coverage depending on application needs.
-- **Combined Guide**: Alternatively, you can use the combine EPG data from all three countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
+- **Combined Guide**: Alternatively, you can use the combine EPG data from all countries with a single unified guide. This aggregated data set provides a broader scope of programming information across multiple countries.
 
 ## How to Use:
 1. Use direct URLs (like `https://raw.githubusercontent.com/danzkigg/epg-data/main/usa/guide.xml`) to access specific country guides.
@@ -29,6 +29,9 @@ This repository hosts comprehensive Electronic Program Guide (EPG) data in XML f
 - **Developers**: Integrate EPG data into TV guide applications, media center software, or IPTV solutions.
 - **Researchers**: Analyze broadcasting patterns and trends across TV channels in Portugal, France, and the US.
 - **Enthusiasts**: Explore television programming schedules for personal use or hobbyist projects.
+
+## Requesting Additional Countries:
+- **Requests Welcome**: If you require EPG data for countries not currently included, please open an issue on GitHub.
 
 ## Disclaimer:
 This repository is not affiliated with any television network or broadcasting organization. EPG data may be subject to changes by broadcasters; use caution when relying on real-time scheduling information. If you encounter any problems submit an issue.
