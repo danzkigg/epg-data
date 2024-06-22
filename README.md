@@ -1,8 +1,30 @@
-EPG data for Portugal TV using [iptv-org/epg](https://github.com/iptv-org/epg)
+# Portugal TV EPG Data Repository
 
-**- How to use?**
+This repository hosts comprehensive Electronic Program Guide (EPG) data for television channels in Portugal. EPG data provides schedules of upcoming broadcasts, enabling applications to display accurate programming information to users.
 
-Simply use the guide.xml file to get the EPG data.
+## Features:
+- **Up-to-date Information**: Regularly updated EPG data to ensure accuracy and reliability.
+- **Channel Coverage**: Includes major national and regional channels across Portugal.
+- **Structured Format**: Data provided in JSON format for easy integration into applications and services.
+- **Open Source**: Free and open for community use, contributions, and enhancements.
+
+## Usage:
+- **Developers**: Integrate EPG data into TV guide applications, media center software, or IPTV solutions.
+- **Researchers**: Analyze broadcasting patterns and trends across Portuguese TV channels.
+- **Enthusiasts**: Explore television programming schedules for personal use or hobbyist projects.
+
+## Contributing:
+Contributions to improve data accuracy, expand coverage, or enhance data formats are welcome. Fork this repository, make your changes, and submit a pull request.
+
+## License:
+This repository is licensed under the [MIT License](link-to-license-file), allowing for both personal and commercial use with attribution.
+
+## Disclaimer:
+This repository is not affiliated with any television network or broadcasting organization. EPG data may be subject to changes by broadcasters; use caution when relying on real-time scheduling information.
+
+## How to Use:
+1. Clone the repository to your local environment.
+2. Use the XML files provided in the `/portugal` directory for programming integration.
 
 <details>
 
